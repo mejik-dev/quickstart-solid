@@ -1,0 +1,21 @@
+{
+  "name": "vite-template-solid",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^3.0.0",
+    "vite-plugin-solid": "^2.3.0"
+  },
+  "dependencies": {
+    "microgen-v3-sdk": "^0.8.12",
+    "@solidjs/router": "^0.4.2",
+    "solid-js": "^1.4.7"
+  }
+}
